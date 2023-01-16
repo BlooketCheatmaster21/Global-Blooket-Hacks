@@ -1,5 +1,5 @@
 --https://github.com/BlooketCheatmaster21/Blooket-cheats-/edit/main/Add%20coins%20and%20exp%20blooket
---Copyright
+--ty for using this
 (async () => { /* This is to prevent "identifier i is already declared errors" */
     let i = document.createElement('iframe');
     document.body.append(i);
