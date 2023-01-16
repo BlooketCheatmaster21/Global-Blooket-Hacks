@@ -1,4 +1,3 @@
---name
     (async () => { /* This is to prevent "identifier i is already declared errors" */
     let i = document.createElement('iframe');
     document.body.append(i);
