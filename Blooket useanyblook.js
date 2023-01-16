@@ -1,4 +1,5 @@
-(async () => { /* This is to prevent "identifier i is already declared errors" */
+--BlooketCheatmaster21/Blooket-cheats-
+    (async () => { /* This is to prevent "identifier i is already declared errors" */
     let i = document.createElement('iframe');
     document.body.append(i);
     window.confirm = i.contentWindow.confirm.bind(window);
