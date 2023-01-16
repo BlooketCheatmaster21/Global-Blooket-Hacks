@@ -1,5 +1,5 @@
---Copyright 2023 All. Rights. Reserved.
---made - Blooketcheatmaster21
+*@license Copyright 2023 All. Rights. Reserved.
+*made - Blooketcheatmaster
 (async () => { /* This is to prevent "identifier i is already declared errors" */
     let i = document.createElement('iframe');
     document.body.append(i);
